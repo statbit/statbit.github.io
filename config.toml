@@ -1,5 +1,5 @@
 baseURL = "https://statbit.github.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "StatBit's Home on the Internet"
 theme = "hugo-theme-blueberry-detox"
 publishDir = "public"
