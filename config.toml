@@ -1,4 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "http://statbit.github.io/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "hugo-theme-blueberry-detox"
+publishDir = "docs"
